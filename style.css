@@ -164,13 +164,6 @@ border:none;
 border-radius:10%;
 }
 
-input[type=text],textarea{
-  width: 38%;
-  padding: 12px;
-  box-sizing: border-box;
-  resize: vertical;
-}
-
 .cont-add{
 color:#ffffff;
 font-weight:500;
