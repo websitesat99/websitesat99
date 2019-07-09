@@ -152,8 +152,6 @@ width:42%;
 height:100%;
 padding: 30px 30px 30px 30px;
 position:relative;
-input[type=text], select, textarea{
-width: 100%;
 float:left;
 }
 
