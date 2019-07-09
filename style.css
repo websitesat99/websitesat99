@@ -164,9 +164,6 @@ border:none;
 border-radius:10%;
 }
 
-.contact_form input[type=text], select, textarea{
-  width: 100%;}
-
 .cont-add{
 color:#ffffff;
 font-weight:500;
