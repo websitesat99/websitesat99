@@ -164,6 +164,13 @@ border:none;
 border-radius:10%;
 }
 
+input[type=text], select, textarea{
+  width: 100%;
+  padding: 12px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
 .cont-add{
 color:#ffffff;
 font-weight:500;
