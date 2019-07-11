@@ -146,7 +146,6 @@ border-bottom: 2px solid #FFFFFF;
 border-top:#FFFFFF 2px solid ;}
 
 .contact_form{
-border: 2px solid #FFFFFF;
 background-color:#000066;
 width:45%;
 height:100%;
@@ -1836,7 +1835,6 @@ RESPONSIVE
 .conctact_form{
 width:100%;
 }
-.contact_form input {width:90%;}
 .cont-add{
 width:100%;
 }
