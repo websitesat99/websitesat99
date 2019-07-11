@@ -1833,6 +1833,12 @@ RESPONSIVE
         display: block;
         width: 100%;
     }
+.conctact_form{
+width:100%;
+}
+.cont-add{
+width:100%;
+}
     .nopadtop {
         padding-top: 80px;
     }
