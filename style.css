@@ -1840,6 +1840,7 @@ RESPONSIVE
 .conctact_form{
 width:100%;
 }
+.contact_form input {width:90%;}
 .cont-add{
 width:100%;
 }
