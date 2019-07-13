@@ -7,18 +7,16 @@
 
 
 <url>
-  <loc>http://www.websitesat99.com/</loc>
-  
+  <loc>http://www.websitesat99.com/</loc>  
 <lastmod>2019-07-11T12:12:44+00:00</lastmod>
- 
+<changefreq>monthly</changefreq> 
  <priority>1.00</priority>
 </url>
 
 <url>
   <loc>http://www.websitesat99.com/index.html</loc>
-
   <lastmod>2019-07-11T12:12:44+00:00</lastmod>
- 
+ <changefreq>monthly</changefreq>
  <priority>0.80</priority>
 </url>
 
