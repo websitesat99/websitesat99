@@ -702,7 +702,7 @@ SECTIONS
 }
 
 .section {
-    padding: 35px 20px;
+    padding: 5% 20px;
     position: relative;
     overflow: hidden;
     display: block;
@@ -1835,6 +1835,8 @@ RESPONSIVE
 .conctact_form{
 width:100%;
 }
+.contact_form input{
+width:100%;}
 .cont-add{
 width:100%;
 }
