@@ -1004,34 +1004,6 @@ hr.invis1 {
     margin: 25px 0 0 22px;
 }
 
-.owl-theme-01 .owl-nav [class*="owl-"] {
-    background: #000 none repeat scroll 0 0;
-    border-radius: 2px;
-    color: #fff;
-    cursor: pointer;
-    display: inline-block;
-    font-size: 18px;
-    height: 33px;
-    line-height: 35px;
-    margin: 2px;
-    padding: 0;
-    width: 30px;
-}
-
-.owl-theme-02 .owl-nav [class*="owl-"] {
-    background: #fff none repeat scroll 0 0;
-    border-radius: 2px;
-    color: #000;
-    cursor: pointer;
-    display: inline-block;
-    font-size: 18px;
-    height: 33px;
-    line-height: 35px;
-    margin: 2px;
-    padding: 0;
-    width: 30px;
-}
-
 /*********************
 FOOTER
 *********************/
