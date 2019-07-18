@@ -542,66 +542,6 @@ MOBILE MENU
 /************************************
 SLIDER
 ************************************/
-
-.tp-caption.WebProduct-Title,
-.WebProduct-Title {
-    font-family: 'Montserrat', serif;
-    font-weight: bold;
-    text-transform: capitalize;
-    color: #ffffff;
-    letter-spacing: 0;
-}
-
-.dark-color,
-.tp-caption.dark-color {
-    color: #000000 !important;
-}
-
-.WebProduct-Content,
-.tp-caption.WebProduct-Content {
-    font-family: 'Poppins', serif;
-    color: #ffffff;
-    opacity: 0.8 !important;
-    font-weight: 400;
-}
-
-.tp-caption.Small-Title-Link,
-.tp-caption.Small-Title,
-.Small-Title {
-    background-color: transparent;
-    border-color: transparent;
-    border-radius: 0 0 0 0;
-    border-style: none;
-    border-width: 0;
-    color: rgba(255, 255, 255, 1.00);
-    font-family: 'Montserrat', serif;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: bold;
-    line-height: 24px;
-    padding: 0;
-    text-decoration: none;
-}
-
-.Small-Title-Link a,
-.tp-caption.Small-Title-Link a {
-    background-color: transparent;
-    border-color: transparent;
-    border-radius: 0 0 0 0;
-    border-style: none;
-    border-width: 0;
-    color: rgba(255, 255, 255, 1.00);
-    font-family: 'Poppins', serif;
-    font-size: 16px;
-     font-style: normal;
-    text-transform: uppercase;
-    font-weight: 400;
-    line-height: 24px;
-    font-size: 10px;
-    padding: 0;
-    text-decoration: none;
-}
-
 /*********************
 SECTIONS
 *********************/
